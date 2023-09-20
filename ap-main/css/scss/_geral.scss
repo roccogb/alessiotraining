@@ -1,0 +1,78 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: $cor-2;
+  font-size: 15px;
+}
+
+.container {
+  max-width: 1020px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 0.6rem
+}
+
+.sections {
+  padding: 5rem 0;
+}
+
+.btn {
+  padding: .8rem 1.4rem;
+  color: $cor-1;
+  transition: .1s;
+  @include cards;
+  background: $cor-6;
+
+  &:hover {
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4), 0 0 0 1px $cor-1;
+  }
+}
+
+.sombra {
+  width: 200px;
+  height: 200px;
+  background: $cor-2;
+  border-radius: 50%;
+  position: absolute;
+  filter: blur(200px);
+}
+
+.subtitle {
+  text-transform: uppercase;
+  color: $cor-1;
+  position: relative;
+  z-index: 1;
+  margin-bottom: .2rem;
+}
+
+.enf {
+  width: 2.7rem;
+  height: 2.7rem;
+  background: url('../img/ball.svg');
+  background-repeat: no-repeat;
+  background-size: 2.7rem;
+  position: absolute;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: $cor-5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $cor-1;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: $cor-3;
+}
+
+@media (max-width: 640px) {
+  .enf {
+    width: 1.6rem;
+    background-size: 1.6rem;
+    height: 1.6rem;
+  }
+}
