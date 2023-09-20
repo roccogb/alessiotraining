@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h2 {
+  font-family: 'Days One', sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+}
+
+address {
+  font-style: normal;
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
+}
