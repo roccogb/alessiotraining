@@ -44,7 +44,7 @@ body {
 }
 .btn {
   padding: 0.8rem 1.4rem;
-  color: #170b9c;
+  color: #3122ff;
   transition: 0.1s;
   border: 1px solid black;
   background: #111313;
@@ -53,7 +53,7 @@ body {
   background: #1c1f1f;
 }
 .btn:hover {
-  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4), 0 0 0 1px #170b9c;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4), 0 0 0 1px #3122ff;
 }
 .sombra {
   width: 200px;
@@ -66,7 +66,7 @@ body {
 .subtitle,
 #eventos h3 {
   text-transform: uppercase;
-  color: #170b9c;
+  color: #3122ff;
   position: relative;
   z-index: 1;
   margin-bottom: 0.2rem;
@@ -86,7 +86,7 @@ body {
   background: #080808;
 }
 ::-webkit-scrollbar-thumb {
-  background: #170b9c;
+  background: #3122ff;
 }
 ::-webkit-scrollbar-thumb:hover {
   background: #0a0164;
@@ -104,7 +104,7 @@ body {
   z-index: 10;
 }
 #header .logo {
-  color: #170b9c;
+  color: #3122ff;
   font-size: 2rem;
   margin-right: 1rem;
 }
@@ -128,7 +128,7 @@ body {
   display: none;
 }
 #header .menu-mobile.active {
-  border: 1px solid #170b9c;
+  border: 1px solid #3122ff;
 }
 @media (max-width: 750px) {
   #header .menu-mobile {
@@ -203,7 +203,7 @@ body {
   margin-bottom: 0.5rem;
 }
 #entrada .textos h1 span {
-  background: #170b9c;
+  background: #3122ff;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -244,7 +244,7 @@ body {
   box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
 }
 #entrada .redes a:hover {
-  border-color: #170b9c;
+  border-color: #3122ff;
 }
 #entrada .sombra {
   width: 500px;
@@ -399,7 +399,7 @@ body {
 #valores .barra {
   width: 3px;
   height: 10rem;
-  background: #170b9c;
+  background: #3122ff;
   position: relative;
   right: -0.5rem;
   top: calc(50% - 5rem);
@@ -564,11 +564,11 @@ body {
   transition: 0.2s;
 }
 #modalidades .lista-planos > li:hover {
-  border: 1px solid #170b9c;
+  border: 1px solid #3122ff;
   background: #1c1f1f;
 }
 #modalidades .lista-planos > li:nth-of-type(2) {
-  border: 1px solid #170b9c;
+  border: 1px solid #3122ff;
   margin-top: -1rem;
 }
 #modalidades .lista-planos > li .recomendado {
@@ -576,7 +576,7 @@ body {
   top: -1.5rem;
   right: 0;
   left: 0;
-  color: #170b9c;
+  color: #3122ff;
 }
 #modalidades .lista-planos > li h3 {
   text-align: center;
@@ -597,7 +597,7 @@ body {
   text-align: center;
   font-family: "Days One", sans-serif;
   font-size: 1.3rem;
-  color: #170b9c;
+  color: #3122ff;
 }
 #modalidades .lista-planos > li .preco span {
   font-size: 2rem;
@@ -754,7 +754,7 @@ footer .by {
   width: 1.2rem;
 }
 #modal .modal .btn-fechar:hover {
-  border-color: #170b9c;
+  border-color: #3122ff;
 }
 [data-anima] {
   transition: 0.7s;
