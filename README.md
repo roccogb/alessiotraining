@@ -6,13 +6,13 @@ Este es un repositorio de la Landing Page de Alessio, en este repositorio encont
 
 Alessio es un apasionado entrenador personal con años de experiencia en el campo del fitness y el bienestar. Su enfoque se basa en la individualización de programas de entrenamiento y nutrición para ayudarte a alcanzar tus objetivos de salud y forma física de manera efectiva y segura. Ya sea que quieras perder peso, ganar masa muscular o mejorar tu salud en general, Alessio te guiará en cada paso del camino.
 
-## Características de la Landing Page
+## Características de la pagina
 
-La Landing Page de Alessio Personal Trainer ofrece las siguientes características y secciones clave:
+La pagina de Alessio ofrece las siguientes características y secciones clave:
 
 1. **Inicio:** Una introducción a Alessio y su enfoque en el entrenamiento personalizado.
 
-2. **Acerca de:** Más información sobre Alessio, su experiencia y su filosofía de entrenamiento.
+2. **Acerca de:** Más información sobre Alessio, su forma y experiencia de entrenamiento.
 
 3. **Servicios:** Una descripción detallada de los servicios que Alessio ofrece, que incluyen programas de entrenamiento personalizados, asesoramiento nutricional y seguimiento continuo.
 
