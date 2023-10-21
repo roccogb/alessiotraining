@@ -1,6 +1,6 @@
 # README - AP Training Program Landing Page
 
-Este es un repositorio de la Landing Page de Alessio, en este repositorio encontrarás todos los archivos necesarios para crear y desplegar una página web que promocione los servicios de Alessio como entrenador personal.
+Este es un repositorio de la pagina de Alessio, en este repositorio encontrarás todos los archivos necesarios para crear y desplegar una página web que promocione los servicios de Alessio como entrenador personal.
 
 ## Acerca de Alessio
 
