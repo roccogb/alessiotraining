@@ -163,7 +163,7 @@ body {
   }
 }
 #entrada {
-  background: url("../img/bg-entrada.jpg");
+  background: url("../img/111313.png");
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -212,7 +212,7 @@ body {
   margin-top: 3rem;
 }
 #entrada .textos::before {
-  content: "Integer";
+  content: "AP";
   font-family: "Days One", sans-serif;
   text-transform: uppercase;
   font-weight: 400;
@@ -251,7 +251,7 @@ body {
   height: 500px;
   top: -100px;
   left: calc(50% - 250px);
-  filter: blur(450px);
+  filter: blur(1000px);
 }
 #entrada .enf-1 {
   bottom: 40%;
