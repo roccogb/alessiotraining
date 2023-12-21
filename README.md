@@ -33,7 +33,6 @@ Para utilizar este repositorio y crear tu propia Landing Page para Alessio Perso
 
 3. **Añade tus propias imágenes:** Reemplaza las imágenes de muestra en la carpeta `img` con las imágenes que deseas utilizar.
 
-4. **Configura el formulario de contacto:** En el archivo `contact.html`, asegúrate de que el formulario de contacto esté configurado correctamente para que los visitantes puedan ponerse en contacto con Alessio.
 
 5. **Prueba localmente:** Abre los archivos HTML en tu navegador para asegurarte de que todo funcione como se espera antes de desplegar la página.
 
